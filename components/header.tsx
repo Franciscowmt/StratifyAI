@@ -34,7 +34,7 @@ export default function Header() {
           }`}
         >
           <Mic className={`w-7 h-7 transition-colors duration-300 ${scrolled ? "text-blue-600" : "text-white"}`} />
-          <span>Stratify IA</span>
+          <span>Stratify AI</span>
         </div>
 
         <nav className="hidden md:flex gap-8">

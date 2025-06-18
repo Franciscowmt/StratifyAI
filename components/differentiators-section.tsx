@@ -7,7 +7,7 @@ export default function DifferentiatorsSection() {
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-slate-900 mb-4">Las encuestas politizadas quedaron atrás</h2>
           <p className="text-xl text-slate-600 max-w-3xl mx-auto">
-            Compara el método tradicional con la revolución de Stratify IA
+            Compara el método tradicional con la revolución de Stratify AI
           </p>
         </div>
 
@@ -43,7 +43,7 @@ export default function DifferentiatorsSection() {
           </div>
 
           <div className="bg-green-50 border-2 border-green-200 rounded-xl p-8 text-center">
-            <h3 className="text-2xl font-bold text-green-600 mb-6">Stratify IA</h3>
+            <h3 className="text-2xl font-bold text-green-600 mb-6">Stratify AI</h3>
             <ul className="space-y-3 text-left">
               <li className="flex items-center gap-3 text-slate-700">
                 <Check className="w-5 h-5 text-green-500" />

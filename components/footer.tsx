@@ -16,7 +16,7 @@ export default function Footer() {
         <div className="text-center mb-8">
           <div className="flex items-center justify-center gap-2 text-3xl font-bold mb-6">
             <Mic className="w-8 h-8 text-blue-500" />
-            Stratify IA
+            Stratify AIK
           </div>
 
           <div className="flex flex-wrap justify-center gap-8 mb-8">
@@ -40,7 +40,7 @@ export default function Footer() {
 
         <div className="border-t border-white/10 pt-8 text-center">
           <p className="text-white/60">
-            © 2025 Stratify IA. Tecnología chilena para el mundo. Todos los derechos reservados.
+            © 2025 Stratify AI. Tecnología chilena para el mundo. Todos los derechos reservados.
           </p>
         </div>
       </div>

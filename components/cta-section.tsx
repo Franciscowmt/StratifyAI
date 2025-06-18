@@ -7,7 +7,7 @@ export default function CTASection() {
       <div className="max-w-4xl mx-auto px-6 text-center">
         <h2 className="text-4xl md:text-5xl font-bold mb-6">¿Listo para escuchar a tu comunidad como nunca antes?</h2>
         <p className="text-xl md:text-2xl mb-12 text-white/90">
-          Agenda una reunión personalizada y descubre cómo Stratify IA puede revolucionar tus encuestas
+          Agenda una reunión personalizada y descubre cómo Stratify AI puede revolucionar tus encuestas
         </p>
 
         <div className="flex flex-wrap justify-center gap-6 mb-12">
